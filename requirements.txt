@@ -1,0 +1,4 @@
+streamlit==1.40.1
+gtts==2.5.4
+openai==0.28.0
+speechrecognition==3.11.0
